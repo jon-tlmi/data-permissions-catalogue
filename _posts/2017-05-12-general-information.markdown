@@ -1,5 +1,5 @@
 ---
-title:  "Where is.. everything?"
+title:  "General info - where is everything?"
 ---
 I'm sorry everything seems so confusing. I'll try to unpack some of the thinking and conversations that have gone into the design of Glasscubes.
 
