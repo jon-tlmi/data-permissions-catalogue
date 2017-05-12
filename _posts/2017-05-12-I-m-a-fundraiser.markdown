@@ -12,3 +12,6 @@ You're a fundraiser and you'd like to find some case studies or photos or maybe 
 
 ### Want to talk/discuss with other Fundraisers?
 * There is a dedicated fundraising workspace which is available. If you're not a member of it, you can't see it. If you think you should be a member of it, please contact Jon 
+
+### What's our impact?
+* You can check out our [Key Performance Indicators and other outputs](https://tlmi.glasscubes.com/cube/documents/128238/453362?149). They're under the Global Fellowship workspace, in the [monitoring, evaluation and learning] (https://tlmi.glasscubes.com/cube/documents/128238/494659?152) folder
