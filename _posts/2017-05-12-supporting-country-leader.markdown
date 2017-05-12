@@ -1,8 +1,6 @@
 ---
 title:  "I'm a supporting Country leader"
 ---
-[Icons made by SimpleIcon](http://www.flaticon.com/authors/simpleicon) and is licensed by [Creative Commons BY 3.0](http://creativecommons.org/licenses/by/3.0/)
-
 Your main responsibilities are to your country site (if you've decided to have one for your own staff) and to make sure your country is up to date in some areas under the Global Fellowship workspace.
 
 ### Are your staff travelling? 
