@@ -1,6 +1,6 @@
-# Data Permissions ​Catalogue
+# Glasscubes help for TLM staff
 
-Documenting design patterns for personal data sharing, with example uses and research. Maintained by [IF](https://projectsbyif.com/).
+Originally a data permissions catalogue, documenting design patterns for personal data sharing, with example uses and research. Maintained by [IF](https://projectsbyif.com/). It has since been repurposed as a quick and flexible help file for TLM staff to work out where things are on their new intranet.
 
 ## How to contribute
 
