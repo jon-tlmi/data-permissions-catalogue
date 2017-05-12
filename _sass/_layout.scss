@@ -7,21 +7,6 @@ header {
   left: 0;
   background: #FFF;
   z-index: 1001;
-
-  #logo {
-    display: block;
-    text-indent: -9999px;
-    background-image: url('/images/if-logo.svg');
-    background-repeat: no-repeat;
-    background-size: contain;
-    margin: 0 auto;
-    border-bottom: 0;
-    height: 54px;
-    width: 40px;
-    position: absolute;
-    top: 10px;
-    left: calc(50% - 20px);
-  }
 }
 
 footer {
@@ -76,8 +61,7 @@ footer {
   padding: 36px 18px;
 
   .illo {
-    width: calc(100vw - 36px);
-    height: 10em;
+    width: calc(100vw - 36px);    
     background-size: contain;
     background-position: center center;
     background-repeat: no-repeat;
