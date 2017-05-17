@@ -1,7 +1,7 @@
 ---
 title:  "General info - where is everything?"
 ---
-I'm sorry everything seems so confusing. I'll try to unpack some of the thinking and conversations that have gone into the design of Glasscubes.
+Glasscubes is new, I'll try to unpack some of the thinking and conversations that have gone into the design of Glasscubes.
 
 ### Workspaces? What are they? 
 * Glasscubes is the name of the software we're using to share documents across the Global Fellowship. It is divided into seperate workspaces. If you can see a workspace you have access to it. The default level of access is called 'read only' which means you can see the information and download files. If you need to get more access so you can do more (e.g. upload files, make changes) you can ask the workspace 'owner'. Their name should be on the Summary page of the workspace. If it's not, let [Jon](mailto:it@leprosymission.org) know. 
