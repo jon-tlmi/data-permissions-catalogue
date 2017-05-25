@@ -1,5 +1,5 @@
 ---
-title:  "How do I rename a file that I've found on Glasscubes?"
+title:  "How do I rename this file?"
 ---
 How do I rename a file which is already on Glasscubes? This is slightly counter-intuitive, but useful if you are correcting a file name (or just describing the file better..)
 
