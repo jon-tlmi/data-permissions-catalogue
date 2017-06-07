@@ -9,4 +9,4 @@ If you're a leader who needs to share with trustees who are not TLM staff member
 * Clicking on this reveals a menu and at the top is 'Share this folder'. 
 * After clicking to share the folder, you can use the 'Copy share link' to get the link to send to your trustees. 
   * Optionally you can also password protect and/or set an expiry date so that it will stop being shared after a certain point.
-
+* Important note: This method is limited to one-way communications. Trustees will not be able to upload or make changes to files shared in this way.
