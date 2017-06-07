@@ -1,7 +1,7 @@
 ---
 title:  "Notifications are flooding my inbox!"
 ---
-The good news is you are popular or following a lot of things. It's also good news a lot of people are using Glasscubes. The bad news is that you may be getting too many notifications sent to you.
+The good news is you are popular or you are following a lot of things. It's also good news a lot of people are using Glasscubes. The bad news is that you may be getting too many notifications sent to you.
 
 ### You are in control of your notifications
 * Click on your picture (or your initials) in the top right of the browser window - it should be to the left of the bell-like notification icon. When you mouse hovers over it, it will say 'Your profile'. 
