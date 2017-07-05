@@ -1,7 +1,11 @@
 # Site settings
 title: Glasscubes help
 email: it@leprosymission.org
+<<<<<<< HEAD
 description: Documenting our journey with Glasscubes. This is being updated as more questions come back and our training rolls out. Keep asking and exploring.
+=======
+description: Documenting 'stuff' on Glasscubes. Work in progress.
+>>>>>>> origin/master
 url: "https://tlmi.glasscubes.com"
 twitter_username: jonnyoftsang
 github_username:  jon-tlmi
