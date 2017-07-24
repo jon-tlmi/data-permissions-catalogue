@@ -2,7 +2,7 @@
 title:  "What about my trustees?"
 ---
 If you're a leader who needs to share with trustees who are not TLM staff members, you currently have two choices - have a chat with the TLMI staff if you absolutely have to make your trustees part of the Glasscubes experience. Alternatively, if you just want to share a folder which has all their files in it, you can share a folder with them publicly. 
-### Diferences between sharing rather than joining Glasscubes
+### Differences between sharing rather than joining Glasscubes
 * Shared folder: Trustees don't need to login (although you can password protect it if an oscure link isn't good enough)
 * Shared folder: We don't need to manage their licences
 * Glasscubes: We need to manage licences for them
