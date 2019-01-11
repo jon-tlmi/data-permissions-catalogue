@@ -13,6 +13,6 @@ There are a few methods open to you:
 ### Upload a file
 * Make sure you know where your file currently is.
 * Find out where you should be uploading your file to on Glasscubes and navigate to it so you can see the folder on your screen.
-* Look for a big blue button on the right side of the screen which says 'Upload files'. Click on it, slect your file and it will be uploaded to that folder
+* Look for a big blue button on the right side of the screen which says 'Upload files'. Click on it, select your file and it will be uploaded to that folder
 * If you don't have a button which says 'Upload files' you don't have permission to do so. Please contact the workspace owner to gain permission
 
