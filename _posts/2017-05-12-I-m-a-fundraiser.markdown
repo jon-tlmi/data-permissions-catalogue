@@ -8,7 +8,7 @@ You're a fundraiser and you'd like to find some case studies or photos or maybe 
 * We have moved our photos away from Flickr
 
 ### Branding and other GF-wide standards
-* Brand guidelines belong to the whole Global Fellowship, so they can be found in the Global Fellowship workspace under [communications, image and branding](https://tlmi.glasscubes.com/cube/documents/128238/453360)
+* Brand guidelines belong to the whole Global Fellowship, so they can be found in the Global Fellowship workspace in the [Files section](https://tlmi.glasscubes.com/cube/documents/128238#) and the [logo guidelines are here](https://tlmi.glasscubes.com/cube/documents/128238#/document/2774583)
 
 ### Want to talk/discuss with other Fundraisers?
 * There is a dedicated fundraising workspace which is available. If you're not a member of it, you can't see it. If you think you should be a member of it, please contact Jon 
